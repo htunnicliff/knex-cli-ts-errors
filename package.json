@@ -1,0 +1,26 @@
+{
+  "name": "knex-cli-ts-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htunnicliff/knex-cli-ts-errors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htunnicliff/knex-cli-ts-errors/issues"
+  },
+  "homepage": "https://github.com/htunnicliff/knex-cli-ts-errors#readme",
+  "dependencies": {
+    "knex": "^0.20.15"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
